@@ -7,7 +7,7 @@
 <img align= "left" src = "https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
 <img align= "left" src= "https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
 
-# My Blog posts
+# My Blog posts 
 <!-- BLOG-POST-LIST:START -->
 - [What are PWAs or Progressive Web Apps?](https://faheem7450.medium.com/what-are-pwas-or-progressive-web-apps-2d455774ebd4?source=rss-1a4585d33921------2)
 - [Build User Management System with Flask](https://faheem7450.medium.com/user-management-system-in-flask-f78dbe350e71?source=rss-1a4585d33921------2)
