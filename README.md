@@ -9,4 +9,6 @@
 <br>
 # My Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What are PWAs or Progressive Web Apps?](https://faheem7450.medium.com/what-are-pwas-or-progressive-web-apps-2d455774ebd4?source=rss-1a4585d33921------2)
+- [Build User Management System with Flask](https://faheem7450.medium.com/user-management-system-in-flask-f78dbe350e71?source=rss-1a4585d33921------2)
 <!-- BLOG-POST-LIST:END -->
