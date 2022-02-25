@@ -6,6 +6,7 @@
 <img  align ="left" src = "https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray " />
 <img align= "left" src = "https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
 <img align= "left" src= "https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
+![](https://komarev.com/ghpvc/?username=faheem77&label=PROFILE+VIEWS&color=yellow)
 
 # My Blog posts 
 <!-- BLOG-POST-LIST:START -->
