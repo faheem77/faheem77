@@ -7,6 +7,7 @@
 <img align= "left" src = "https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
 <img align= "left" src= "https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
 <img align= "left" src= "https://komarev.com/ghpvc/?username=faheem77&label=PROFILE+VIEWS&color=yellow" />
+<img align= "left" src = "https://github.com/faheem77/Scrapped_data_API/actions/workflows/main.yml/badge.svg"" https://github.com/faheem77/Scrapped_data_API/actions/workflows/main.yml)"/>
 
 # My Blog posts 
 <!-- BLOG-POST-LIST:START -->
