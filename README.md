@@ -1,15 +1,50 @@
-# Hi there, I am Faheem!  👋 
-<img align="left" width ="47%" src="https://github-readme-stats.vercel.app/api?username=faheem77&show_icons=true&theme=radical" />
-<img align= "left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faheem77&layout=compact " />
-<img align= "left" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-<img align="left" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
-<img  align ="left" src = "https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray " />
-<img align= "left" src= "https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
-<img align= "left" src= "https://komarev.com/ghpvc/?username=faheem77&label=PROFILE+VIEWS&color=yellow" />
-<img align= "left" src = "https://github.com/faheem77/Scrapped_data_API/actions/workflows/main.yml/badge.svg"" https://github.com/faheem77/Scrapped_data_API/actions/workflows/main.yml)"/>
 
-# My Blog posts 
-<!-- BLOG-POST-LIST:START -->
-- [What are PWAs or Progressive Web Apps?](https://faheem7450.medium.com/what-are-pwas-or-progressive-web-apps-2d455774ebd4?source=rss-1a4585d33921------2)
-- [Build User Management System with Flask](https://faheem7450.medium.com/user-management-system-in-flask-f78dbe350e71?source=rss-1a4585d33921------2)
-<!-- BLOG-POST-LIST:END -->
+
+
+
+
+
+
+
+![](https://media-exp1.licdn.com/dms/image/C4E16AQHjKh6fzV_mQA/profile-displaybackgroundimage-shrink_350_1400/0/1643428596615?e=1648684800&v=beta&t=OUWwP6RMr1aOhj1SV67xHnrMrXrXPSg8mhVgC3bIOR4)
+
+ ### <h1   align= "center" > *Hi everyone, I'm Faheem  *  👋<h1 > 
+  
+### <h2> **Skills:** </h2>
+
+- *Python/Django/FastAPI/Scrapy*
+
+### <h2> 💬 **Ask me:** </h2>
+
+- *API developement or about Web Scrapping* 
+
+### <h2> 📫 **reach me:** </h2>
+ 
+ - **Email:** faheem7450@gmail.com 
+
+ 
+###  <h2> ⚡  **Fun fact:** </h2>
+
+- *I think everything is difficult until I try it*  
+
+
+<h2 align="left">Connect with me:</h2>
+<p align="left">
+<a href="https://twitter.com/faheem2930" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="faheem77" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/faheem750" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faheem77" height="30" width="40" /></a>
+<a href ="https://facebook.com/faheem2920" target="blank"><img aligh="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="faheem77" height="30" width="50" /></a>
+</p>
+
+
+
+
+
+
+
+
+ <h2> My Github Stats : </h2>
+<img 
+   src="https://github-readme-stats.vercel.app/api?username=faheem77&show_icons=true&theme=tokyonight" 
+/>
+
+
