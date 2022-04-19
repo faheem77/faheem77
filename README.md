@@ -44,7 +44,7 @@
 
  <h2> My Github Stats : </h2>
 <img 
-   src="https://github-readme-stats.vercel.app/api?username=faheem77&show_icons=true&theme=tokyonight" 
+   src="https://github-readme-stats.vercel.app/api?username=faheem77&show_icons=true&theme=merko" 
 />
 
 
