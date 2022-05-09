@@ -8,7 +8,7 @@
 
 ![](https://media-exp1.licdn.com/dms/image/C4E16AQHjKh6fzV_mQA/profile-displaybackgroundimage-shrink_350_1400/0/1643428596615?e=1648684800&v=beta&t=OUWwP6RMr1aOhj1SV67xHnrMrXrXPSg8mhVgC3bIOR4)
 
- ### <h1   align= "center" > *Hi everyone, I'm Faheem  *  👋<h1 > 
+ ### <h1   align= "center" > *Hi , I'm Faheem  *  👋<h1 > 
   
 ### <h2> **Skills:** </h2>
 
