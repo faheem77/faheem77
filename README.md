@@ -4,7 +4,7 @@
   
 ### <h2> **Skills:** </h2>
 
-- *Python/Django/FastAPI/Scrapy*
+- *Python/FastAPI/Scrapy/Kafka/RabbitMQ/Airflow*
 
 ### <h2> 💬 **Ask me:** </h2>
 
